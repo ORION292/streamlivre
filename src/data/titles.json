@@ -1,0 +1,112 @@
+[
+  {
+    "id": "nosferatu-1922",
+    "title": "Nosferatu (1922)",
+    "type": "filme",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NosferatuShadow.jpg/440px-NosferatuShadow.jpg",
+    "synopsis": "Clássico do expressionismo alemão. O conde Orlok, um vampiro, se apaixona por uma mulher e traz o terror a uma cidade. Domínio público.",
+    "year": 1922,
+    "genres": ["Terror", "Clássico", "Mudo"],
+    "cast": ["Max Schreck", "Greta Schröder", "Gustav von Wangenheim"],
+    "rating": 8.0,
+    "playerUrl": "https://www.youtube.com/embed/Y4S6lK9yU7E",
+    "playerType": "youtube",
+    "whereToWatch": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=Y4S6lK9yU7E" },
+      { "platform": "Internet Archive", "url": "https://archive.org/details/Nosferatu1922" }
+    ],
+    "dubbed": false,
+    "subtitled": true,
+    "featured": true,
+    "views": 12500,
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": "metropolis-1927",
+    "title": "Metropolis (1927)",
+    "type": "filme",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Metropolisposter.jpg/440px-Metropolisposter.jpg",
+    "synopsis": "Obra-prima de Fritz Lang. Em uma cidade futurista dividida entre elite e trabalhadores, um jovem descobre a verdade por trás do sistema. Domínio público.",
+    "year": 1927,
+    "genres": ["Ficção Científica", "Clássico", "Drama"],
+    "cast": ["Brigitte Helm", "Alfred Abel", "Gustav Fröhlich"],
+    "rating": 8.3,
+    "playerUrl": "https://www.youtube.com/embed/gdtZv3XR_io",
+    "playerType": "youtube",
+    "whereToWatch": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=gdtZv3XR_io" },
+      { "platform": "Internet Archive", "url": "https://archive.org/details/Metropolis1927FritzLang" }
+    ],
+    "dubbed": false,
+    "subtitled": true,
+    "featured": true,
+    "views": 9800,
+    "createdAt": "2024-01-20"
+  },
+  {
+    "id": "night-of-living-dead",
+    "title": "Night of the Living Dead (1968)",
+    "type": "filme",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Night_of_the_Living_Dead_%281968%29_theatrical_poster.jpg/440px-Night_of_the_Living_Dead_%281968%29_theatrical_poster.jpg",
+    "synopsis": "Clássico de George A. Romero que inventou o gênero zumbi moderno. Um grupo de pessoas se refugia em uma casa enquanto a horda se aproxima. Domínio público.",
+    "year": 1968,
+    "genres": ["Terror", "Zumbi", "Suspense"],
+    "cast": ["Duane Jones", "Judith O'Dea", "Karl Hardman"],
+    "rating": 7.9,
+    "playerUrl": "https://www.youtube.com/embed/HfZSt9DqKec",
+    "playerType": "youtube",
+    "whereToWatch": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=HfZSt9DqKec" },
+      { "platform": "Internet Archive", "url": "https://archive.org/details/night_of_the_living_dead" }
+    ],
+    "dubbed": false,
+    "subtitled": true,
+    "featured": false,
+    "views": 15200,
+    "createdAt": "2024-02-01"
+  },
+  {
+    "id": "big-buck-bunny",
+    "title": "Big Buck Bunny",
+    "type": "filme",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_Buck_Bunny_4K.png/440px-Big_Buck_Bunny_4K.png",
+    "synopsis": "Curta de animação open-source do Blender Foundation. Um coelho gigante e gentil decide se vingar de três roedores malvados. Creative Commons.",
+    "year": 2008,
+    "genres": ["Animação", "Comédia", "Família"],
+    "cast": [],
+    "rating": 7.5,
+    "playerUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ",
+    "playerType": "youtube",
+    "whereToWatch": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ" },
+      { "platform": "Blender", "url": "https://peach.blender.org/" }
+    ],
+    "dubbed": false,
+    "subtitled": true,
+    "featured": true,
+    "views": 21000,
+    "createdAt": "2024-03-01"
+  },
+  {
+    "id": "sintel",
+    "title": "Sintel",
+    "type": "filme",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sintel_poster.jpg/440px-Sintel_poster.jpg",
+    "synopsis": "Curta de fantasia open-source do Blender. Uma jovem guerreira busca seu dragão perdido em um mundo épico. Creative Commons.",
+    "year": 2010,
+    "genres": ["Animação", "Fantasia", "Aventura"],
+    "cast": [],
+    "rating": 7.6,
+    "playerUrl": "https://www.youtube.com/embed/eRsGyueVLvQ",
+    "playerType": "youtube",
+    "whereToWatch": [
+      { "platform": "YouTube", "url": "https://www.youtube.com/watch?v=eRsGyueVLvQ" },
+      { "platform": "Blender", "url": "https://durian.blender.org/" }
+    ],
+    "dubbed": false,
+    "subtitled": true,
+    "featured": false,
+    "views": 14500,
+    "createdAt": "2024-03-05"
+  }
+]
